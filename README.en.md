@@ -4,6 +4,8 @@
 
 A discreet line above the Claude Code prompt with the conversation's usage (context) and the 5-hour and weekly windows, as a percentage and with the time until reset.
 
+![usage-bar: the bar above the prompt tracks context, 5-hour and weekly usage; at 45% context a warning appears; /hide-warning hides it and /usage-bar turns the bar on and off](docs/demo-en.gif)
+
 Texts, percentages, hours, colors and widths are all in one file (`hooks/config.ts`), so you can customize it.
 
 ## Installation

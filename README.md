@@ -4,6 +4,8 @@
 
 Linha discreta acima do prompt do Claude Code com o uso da conversa (contexto) e das janelas de 5 horas e semanal, em porcentagem e com o tempo até o reset.
 
+![usage-bar: a barra acima do prompt acompanha contexto, 5h e semana; aos 45% de contexto aparece o aviso; /ocultar-aviso esconde o aviso e /barra-uso liga e desliga a barra](docs/demo-pt.gif)
+
 Os textos, porcentagens, horas, cores e larguras estão em um único arquivo (`hooks/config.ts`), para quem quiser personalizar.
 
 ## Instalação
