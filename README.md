@@ -45,3 +45,7 @@ Para esconder a faixa, use o comando de ocultar aviso. Ela volta sozinha quando 
 ## Idioma
 
 O idioma é escolhido na instalação (`pt` ou `en`). Ele afeta os textos da barra e dos avisos, e os nomes dos comandos de barra e de ocultar aviso.
+
+## Licença
+
+MIT. Veja [LICENSE](LICENSE).

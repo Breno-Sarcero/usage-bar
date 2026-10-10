@@ -45,3 +45,7 @@ To hide the band, use the hide-warning command. It comes back by itself when the
 ## Language
 
 The language is chosen at install (`pt` or `en`). It affects the bar and warning texts, and the names of the toggle and hide-warning commands.
+
+## License
+
+MIT. See [LICENSE](LICENSE).

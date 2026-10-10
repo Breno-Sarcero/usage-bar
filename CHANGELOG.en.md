@@ -2,6 +2,10 @@
 
 # Changelog
 
+## 0.6.4
+
+- **MIT license:** `LICENSE` file, `license` field in `plugin.json`, and a README section.
+
 ## 0.6.3
 
 - **Animated demo in the README:** a GIF of the bar rising during a session, the context warning at 45%, and the hide-warning and on/off commands, in `docs/demo-pt.gif` and `docs/demo-en.gif`.

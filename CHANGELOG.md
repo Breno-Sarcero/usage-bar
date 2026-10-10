@@ -2,6 +2,10 @@
 
 # Changelog
 
+## 0.6.4
+
+- **Licença MIT:** arquivo `LICENSE`, campo `license` no `plugin.json` e seção no README.
+
 ## 0.6.3
 
 - **Demo animada no README:** GIF da barra subindo durante uma sessão, do aviso de contexto aos 45% e dos comandos de ocultar aviso e de ligar e desligar, em `docs/demo-pt.gif` e `docs/demo-en.gif`.
