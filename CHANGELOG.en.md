@@ -2,6 +2,10 @@
 
 # Changelog
 
+## 0.6.6
+
+- README with badges: license, release version, Claude Code plugin and languages.
+
 ## 0.6.5
 
 - README: macOS and Linux path example for the zip install.

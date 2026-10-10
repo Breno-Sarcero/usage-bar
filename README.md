@@ -2,6 +2,8 @@
 
 # usage-bar
 
+[![license: MIT](https://img.shields.io/badge/license-MIT-yellow)](LICENSE) [![release](https://img.shields.io/github/v/release/Breno-Sarcero/usage-bar)](https://github.com/Breno-Sarcero/usage-bar/releases) ![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin-d97757) ![idiomas: pt | en](https://img.shields.io/badge/idiomas-pt%20%7C%20en-5fd38d)
+
 Linha discreta acima do prompt do Claude Code com o uso da conversa (contexto) e das janelas de 5 horas e semanal, em porcentagem e com o tempo até o reset.
 
 ![usage-bar: a barra acima do prompt acompanha contexto, 5h e semana; aos 45% de contexto aparece o aviso; /ocultar-aviso esconde o aviso e /barra-uso liga e desliga a barra](docs/demo-pt.gif)
