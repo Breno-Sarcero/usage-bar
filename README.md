@@ -31,6 +31,8 @@ Baixe o zip em [Releases](https://github.com/Breno-Sarcero/usage-bar/releases), 
 }
 ```
 
+No macOS ou no Linux, use o caminho no formato do sistema, por exemplo `/Users/seu-usuario/plugins/usage-bar` (macOS) ou `/home/seu-usuario/plugins/usage-bar` (Linux).
+
 ## Comandos
 
 - `/barra-uso`: liga e desliga a barra. Só exibe ou não. Em inglês, o comando é `/usage-bar`. O nome `/usage` não é usado porque o Claude Code já tem o seu.

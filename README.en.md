@@ -31,6 +31,8 @@ Download the zip from [Releases](https://github.com/Breno-Sarcero/usage-bar/rele
 }
 ```
 
+On macOS or Linux, use your system's path format, for example `/Users/your-user/plugins/usage-bar` (macOS) or `/home/your-user/plugins/usage-bar` (Linux).
+
 ## Commands
 
 - `/usage-bar`: turns the bar on and off. It only controls display. In Portuguese, the command is `/barra-uso`. The name `/usage` is not used because Claude Code already has its own.
