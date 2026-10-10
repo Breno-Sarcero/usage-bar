@@ -1,0 +1,18 @@
+{
+  "name": "usage-bar",
+  "version": "0.6.1",
+  "author": {
+    "name": "Breno Santiago Sarcero"
+  },
+  "description": "Linha discreta acima do prompt com o uso do contexto e das janelas de 5h e semanal, em porcentagem e tempo até o reset. Comando /barra-uso liga e desliga; aviso de contexto com comando para esconder. Idioma pt ou en. Não gasta tokens nem faz chamadas externas.",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "language": {
+      "type": "string",
+      "title": "Idioma / Language",
+      "description": "Idioma da barra e dos avisos: pt ou en. Padrão: pt. / Language of the bar and warnings: pt or en. Default: pt.",
+      "options": ["pt", "en"],
+      "default": "pt"
+    }
+  }
+}
