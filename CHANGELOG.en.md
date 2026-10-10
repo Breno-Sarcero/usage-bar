@@ -2,6 +2,11 @@
 
 # Changelog
 
+## 0.6.2
+
+- **One-command install:** the repository is now a marketplace (`.claude-plugin/marketplace.json`). Install with `/plugin install usage-bar --marketplace Breno-Sarcero/usage-bar`.
+- README with the new install and, as an alternative, install from the release zip.
+
 ## 0.6.1
 
 - Removed the local marketplace. The mod loads from its folder; the language setting goes in `pluginConfigs` as `usage-bar@inline`.

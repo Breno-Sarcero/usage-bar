@@ -1,0 +1,6 @@
+{
+  "name": "usage-bar",
+  "description": "Claude Code plugin that shows a live usage bar above the prompt, with context window and rate-limit usage, in Portuguese or English.",
+  "owner": { "name": "Breno Santiago Sarcero" },
+  "plugins": [{ "name": "usage-bar", "source": "./" }]
+}

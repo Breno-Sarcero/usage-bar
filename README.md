@@ -8,9 +8,26 @@ Os textos, porcentagens, horas, cores e larguras estão em um único arquivo (`h
 
 ## Instalação
 
-No Claude Code, instale o mod e escolha o idioma quando o Claude Code pedir (`pt` ou `en`, padrão `pt`).
+No terminal do Claude Code, digite:
+
+```
+/plugin install usage-bar --marketplace Breno-Sarcero/usage-bar
+```
+
+Responda `y` para adicionar o marketplace, escolha o escopo (o de usuário vale para todas as sessões) e o idioma (`pt` ou `en`, padrão `pt`).
 
 Não é preciso instalar nada além do Claude Code: o mod roda direto.
+
+### Alternativa: pelo zip da release
+
+Baixe o zip em [Releases](https://github.com/Breno-Sarcero/usage-bar/releases), extraia e aponte a variável `CLAUDE_CODE_PLUGIN_DIRS` do seu `settings.json` para a pasta extraída. O idioma fica em `pluginConfigs`, na chave `usage-bar@inline`:
+
+```json
+{
+  "env": { "CLAUDE_CODE_PLUGIN_DIRS": "C:\\caminho\\para\\usage-bar" },
+  "pluginConfigs": { "usage-bar@inline": { "options": { "language": "pt" } } }
+}
+```
 
 ## Comandos
 
